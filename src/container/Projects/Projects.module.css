@@ -1,0 +1,19 @@
+.mainWrapper{
+    width: 80%;
+    padding: 28px;
+}
+
+.flex{
+    display: flex;
+}
+
+.flexCenter{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.taskColumnWrapper{
+    padding: 12px;
+    margin-top: 1rem;
+}

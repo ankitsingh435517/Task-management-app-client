@@ -1,0 +1,36 @@
+.cardWrapper{
+    border-radius: 4px;
+    margin: 24px 0;
+    padding: 8px;
+    background-color: #fff;
+    cursor: grab;
+}
+
+#owner{
+    color: #fff;
+    font-size: 13px;
+    background-color: rgb(224, 223, 223);
+    padding: 4px 7px;
+    border-radius: 100%;
+}
+
+.card{
+    padding: 6px;
+    cursor:auto;
+}
+
+.titleInput,.descTextarea{
+    outline: none;
+    border: none;
+    margin-bottom: 12px;
+    padding: 4px;
+}
+
+.titleInput{
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.descTextarea{
+    line-height: 1.5rem;
+}

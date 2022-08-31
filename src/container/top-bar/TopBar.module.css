@@ -1,0 +1,36 @@
+.topBarWrapper{
+    margin-top: -1rem;
+}
+
+#owner{
+    color: #fff;
+    font-size: 13px;
+    background-color: gray;
+    padding: 4px 7px;
+    border-radius: 100%;
+}
+
+.flexBetween{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+    
+}
+
+.navUser{
+    width: 11%;
+}
+
+.navUser h6{
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.searchInput{
+    outline: none;
+    border: none;
+    margin-bottom: 12px;
+    padding: 8px;
+    font-size: 16px;
+}

@@ -1,0 +1,39 @@
+.cardWrapper{
+    border-radius: 4px;
+    margin: 24px 0;
+    padding: 8px;
+    background-color: #fff;
+    cursor: grab;
+}
+
+#owner{
+    color: #fff;
+    font-size: 13px;
+    background-color: gray;
+    padding: 4px 7px;
+    border-radius: 100%;
+}
+
+.card{
+    padding: 6px;
+    cursor:auto;
+}
+
+.card p{
+    width: 80%;
+    font-size: 14px;
+    line-height: 1.5rem;
+    color: rgb(82, 81, 81);
+}
+
+
+.card > div{
+    cursor: pointer;
+}
+
+.flexBetween{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+

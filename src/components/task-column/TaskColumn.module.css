@@ -1,0 +1,32 @@
+.mainWrapper{
+    border-radius: 8px;
+    width: 28%;
+    height: 100vh;
+    background-color: #f5f5f8;
+    padding: 16px;
+}
+
+.flexBetween{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.count{
+    background-color: #ebebee;
+    padding: 1px 6px;
+    border-radius: 100%;
+    font-size: 14px;
+    color: green;
+}
+
+.addTaskBtn{
+    text-align: center;
+    border-radius: 4px;
+    margin: 14px 0;
+    background-color: #ebebee;
+    padding: 2px 0;
+    cursor: pointer;
+    color: green;
+    font-size: 22px;
+}
