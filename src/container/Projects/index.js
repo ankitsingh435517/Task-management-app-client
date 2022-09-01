@@ -19,7 +19,7 @@ const tasks = [
     id: "2",
     owner: {
       id: "2",
-      name: "gulzar",
+      name: "gulzar s",
       email: "gulzar@gmail.com",
     },
     title: "write song",
@@ -30,7 +30,7 @@ const tasks = [
     id: "3",
     owner: {
       id: "3",
-      name: "bob",
+      name: "bob b",
       email: "bob@gmail.com",
     },
     title: "prototyping",
@@ -41,7 +41,7 @@ const tasks = [
     id: "4",
     owner: {
       id: "3",
-      name: "bob",
+      name: "bob b",
       email: "bob@gmail.com",
     },
     title: "copywriting",

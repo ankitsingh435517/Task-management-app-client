@@ -1,0 +1,86 @@
+.wrapper{
+    border-top: 3px solid rgb(201, 210, 221);
+    width: 70%;
+    margin: 3.5rem auto;
+}
+
+.wrapper form{
+    padding: 4px;
+    margin-top: 2rem;
+}
+
+.basicInput{
+    border: 2px solid rgb(184, 180, 180);
+    width: 90%;
+    padding: 8px 20px;
+    height: 28px;
+    border-radius: 8px;
+    outline: none;
+}
+
+.wrapper form div{
+    margin-bottom: 2rem;
+}
+
+#inputPassword{
+    position: relative;
+}
+
+#showPassWord{
+    position: absolute;
+    top: 14px;
+    right: 14px;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+#showPassWord:hover{
+    color: gray;
+}
+
+.active{
+    color: green;
+}
+
+.submitBtn{
+    display: flex;
+    justify-content: center;
+}
+
+.submitBtn button{
+    width: 100%;
+    padding: 13px 0;
+    background-color: darkgreen;
+    color: #fff;
+    border-radius: 8px;
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.submitBtn button:hover{
+    background-color: green;
+}
+
+#remembermeText{
+    font-size: 13px;
+    color: gray;
+}
+
+.checkBoxWrap{
+    display: flex;
+    align-items: center;
+}
+
+.errorText{
+    color: red;
+    font-size: 12px;
+    text-align: center;
+}
+
+.errorBorder{
+    border: 2px solid red;
+    border-color: red;
+}
